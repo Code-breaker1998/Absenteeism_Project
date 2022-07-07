@@ -25,10 +25,10 @@ In this project, i want to share how absenteeism can impact for performance on o
 #### Employee Information
 ![Employee Information](https://github.com/Code-breaker1998/Absenteeism_Project/blob/main/Images/Dashboard%201.png)
 
-#### Daily Worload of Employee in Company
+#### Daily Workload of Employee in Company
 ![Daily Worload of Employee in Company](https://github.com/Code-breaker1998/Absenteeism_Project/blob/main/Images/Dashboard%202.png)
 
-#### Absenteeism of Emplyee with respect to Month and Year
+#### Absenteeism of Employee with respect to Month and Year
 ![Absenteeism of Emplyee with respect to Month and Year](https://github.com/Code-breaker1998/Absenteeism_Project/blob/main/Images/Dashboard%203.png)
 
 
