@@ -31,6 +31,10 @@ In this project, i want to share how absenteeism can impact for performance on o
 #### Absenteeism of Employee with respect to Month and Year
 ![Absenteeism of Emplyee with respect to Month and Year](https://github.com/Code-breaker1998/Absenteeism_Project/blob/main/Images/Dashboard%203.png)
 
+## Statistical Analysis
+
+I applied T-test for checking if daily workload for year is kept at level of 270 hours then problem of absenteeism would not be take place higher level
+
 
 ## Model Selection
 
